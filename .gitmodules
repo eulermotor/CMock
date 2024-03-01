@@ -1,8 +1,8 @@
 [submodule "vendor/unity"]
 	path = vendor/unity
-	url = https://github.com/eulermotor/unity.git
+	url = https://github.com/eulermotor/Unity.git
 	branch = master
 [submodule "vendor/c_exception"]
 	path = vendor/c_exception
-	url = https://github.com/eulermotor/cexception.git
+	url = https://github.com/eulermotor/CException.git
 	branch = master
